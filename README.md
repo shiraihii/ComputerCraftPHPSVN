@@ -54,7 +54,7 @@ Q: 这东西有什么限制吗?
   - 文件中不能含有非ASCII字符. 
 
 Q: 我只能在电脑MOD里面上传和下载吗?
-  - 当然不, 您可以用[注册](http://mcsjtu/register.php), 网页[上传](http://mcsjtu.me/download.php), [下载或查看](http://mcsjtu.me/upload.php), [查看文件列表](http://mcsjtu.me/list.php), 网页做的很丑陋, 以后有空可能会改进.
+  - 当然不, 您可以用网页[注册](http://mcsjtu/register.php), [上传](http://mcsjtu.me/download.php), [下载或查看](http://mcsjtu.me/upload.php), [查看文件列表](http://mcsjtu.me/list.php), 网页做的很丑陋, 以后有空可能会改进.
 
 有什么问题和意见欢迎提Issue.
   
