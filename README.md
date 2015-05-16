@@ -15,7 +15,7 @@ Q: 为什么需要这样一个东西呢, 你不是写了个从[gitlub上拖代�
   - 于是就写了个既能拖代码下来又能传上去的程序. 
 
 Q: 你这个程序在哪下啊?
-  - 可以从github上下载sae这个文件, 放进电脑MOD里面, 关于怎么放进去, 那个蛋疼的[gitlub上拖代码自动运行的程序](https://github.com/shiraihii/ComputerCraftAutoDownloader)的README里面已经写个了例子, 改一下地址就行
+  - 下载(sae)(http://mcsjtu.me/download.php?owner=shiraihii&filename=sae)这个文件, 放进电脑MOD里面, 关于怎么放进去, 那个蛋疼的[gitlub上拖代码自动运行的程序](https://github.com/shiraihii/ComputerCraftAutoDownloader)的README里面已经写个了例子, 改一下地址就行
   - 这个程序在新浪云上有副本, [查看程序](http://mcsjtu.me/view.php?owner=shiraihii&filename=sae), 下载程序链接http://mcsjtu.me/download.php?owner=shiraihii&filename=sae 其实这个程序本身就被这个系统托管着.
 
 Q: 你这个程序我怎么用啊?
