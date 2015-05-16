@@ -11,3 +11,7 @@ Q: 为什么需要这样一个东西呢, 你不是写了个从[gitlub上拖代�
   - 在使用这个从github上拖代码的程序过程中, 我们难免会遇到, 有时候代码有语法错误或者逻辑错误, 需要边在Minecraft里面调试边修改的情况, 调试完了还需要把程序修改过的地方存下来上传. 
   - 那个程序能从github上拖程序, 但没法往github上传程序啊.
   - 于是就写了个既能拖代码下来又能传上去的程序
+
+Q: 你这个程序在哪下啊?
+  - 可以从github上下载sae这个文件, 放进电脑MOD里面, 关于怎么放进去, 那个蛋疼的[gitlub上拖代码自动运行的程序](https://github.com/shiraihii/ComputerCraftAutoDownloader)的README里面已经写个了例子, 改一下地址就行
+  - 这个程序在新浪云上有副本, [查看程序](http://mcsjtu.me/view.php?owner=shiraihii&filename=sae), 下载程序链接http://mcsjtu.me/download.php?owner=shiraihii&filename=sae 其实这个程序本身就被这个系统托管着.
