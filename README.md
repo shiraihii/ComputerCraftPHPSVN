@@ -1,6 +1,6 @@
 # ComputerCraftPHPSVN
 An Young Simple and Native subversion system for ComputerCraft of MInecraft
-
+下载链接:http://mcsjtu.me/download.php?owner=shiraihii&filename=sae
 废话不多说, 这次英文版的介绍我就不写了, 光写个中文版的说明就行. 
 
 这是一个用lua实现的能在Minecraft电脑MOD(ComputerCraft)环境下跑的集总式文件版本管理系统的客户端代码(也就是电脑MOD的代码啦), 服务器代码我暂时不放出来, 等有机会再放吧, 还有一些功能没有实现, 囧. 
