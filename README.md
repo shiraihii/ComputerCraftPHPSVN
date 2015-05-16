@@ -56,5 +56,11 @@ Q: 这东西有什么限制吗?
 Q: 我只能在电脑MOD里面上传和下载吗?
   - 当然不, 您可以用网页[注册](http://mcsjtu/register.php), [下载或查看](http://mcsjtu.me/download.php), [上传](http://mcsjtu.me/upload.php), [查看文件列表](http://mcsjtu.me/list.php), 网页做的很丑陋, 以后有空可能会改进.
 
+TODO:
+ - 邮箱密码找回.
+ - 电脑MOD内上下键.
+ - 允许设置私有, 部分共享和全公开.
+ - 自动用下载文件.
+ - sae程序自身检查更新.
 有什么问题和意见欢迎提Issue.
   
