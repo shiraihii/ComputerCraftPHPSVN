@@ -1,5 +1,5 @@
 # ComputerCraftPHPSVN
-An Young Simple and Native subversion system for ComputerCraft of MInecraft
+An Young Simple and Naive subversion system for ComputerCraft of MInecraft
 
 下载链接:http://mcsjtu.me/download.php?owner=shiraihii&filename=sae
 
