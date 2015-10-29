@@ -20,7 +20,7 @@ Q: 你这个程序在哪下啊?
 
 Q: 你这个程序我怎么用啊?
   - 在电脑MOD里面运行sae会给出程序用法说明. 这里再详细说一下. 
-  - sae register(目前已经停用，需要到[社员官网](http://mcsjtu.net)上注册)
+  - sae register(目前已经停用，需要到[社团官网](http://mcsjtu.net)上注册)
   - sae pull \<owner\> \<filename\> \<dest\> \[\<version\>\]
     - 这个命令用来下载版本库中的文件.
     - 这个系统中, 没有repo的概念, 每个文件单独是一个repo. 
