@@ -1,5 +1,5 @@
 # ComputerCraftPHPSVN
-An Young Simple and Naive subversion system for ComputerCraft of MInecraft
+An Young Simple and Naive subversion system for ComputerCraft of Minecraft
 
 下载链接:http://server.mcsjtu.net:8080/view/?repokey=11
 
