@@ -50,10 +50,9 @@ Q: 这东西有什么限制吗?
   - 文件中不能含有非ASCII字符. 
 
 Q: 我只能在电脑MOD里面上传和下载吗?
-  - 当然不, 您可以用网页[注册](http://mcsjtu/register.php), [下载或查看](http://mcsjtu.me/download.php), [上传](http://mcsjtu.me/upload.php), [查看文件列表](http://mcsjtu.me/list.php), 网页做的很丑陋, 以后有空可能会改进.
+  - 当然不, 您可以用网页[注册](http://server.mcsjtu.net:8080/wp-login.php?action=register), [下载，查看，上传](http://server.mcsjtu.net:8080/program/), 网页做的很丑陋, 以后有空可能会改进.
 
 TODO:
- - 邮箱密码找回.
  - 电脑MOD内查看信息用上下键翻页.
  - 允许设置私有, 部分共享和全公开.
  - 自动用Token下载文件.
